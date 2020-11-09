@@ -27,3 +27,6 @@ Therefore, the following preprocessing steps are performed:
 The following steps are performed here:
 1. Loading the previously saved model(best model) from training phase.
 2. Using webcam to generate test images and prediction is made.
+
+## Quick Demo of facemask Detector. 
+  <img src="Detector_demo.gif" title='face mask detection' width="650" align="center">
