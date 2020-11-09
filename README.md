@@ -29,4 +29,4 @@ The following steps are performed here:
 2. Using webcam to generate test images and prediction is made.
 
 ## Quick Demo of facemask Detector. 
-  <img src="Detection_demo.gif" title='face mask detection' width="650" align="center">
+  <img src="Detection_demo.gif" title='Facemask_detection' width="650" align="center">
