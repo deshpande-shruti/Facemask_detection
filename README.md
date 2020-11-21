@@ -15,7 +15,7 @@ All the images are not of the same size and neural networks often expect images 
 Therefore, the following preprocessing steps are performed:
 * Gray scaling 
 * Normalize
-* Resize 
+* Resize
 * Reshape
 
 ## Model Building and Training :
